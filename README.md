@@ -2,7 +2,7 @@
 
 Welcome to my Business Analytics Portfolio.
 
-This repository contains my data analytics projects using SQL, Python, Tableau, and Excel.
+This repository contains my data analytics projects using SQL, Python, Tableau, Power BI, and Excel.
 
 #Projects
 
